@@ -1,0 +1,27 @@
+*.swp
+*.pyc
+.project
+.pydevproject
+.settings
+.idea/
+*.iml
+*.imi
+*.iws
+.classpath
+*.log
+*.txt
+*.csv
+*.dump
+target
+.ipynb_checkpoints/
+
+## PASSCODES ##
+/util/marketing/gvalue.py
+/marketing_api/libs/gvalue.py
+/marketing_api/libs/shopping_gvalue.py
+/marketing_api/configuration/test.cfg
+
+## UNUSED DATASETS ##
+/contest/dataset/
+
+.DS_Store
